@@ -1,0 +1,58 @@
+/*tag body*/
+body {
+    background-color: #0e0d0d;
+    padding-top: 50px;
+    color: #ee1607;
+
+}
+/*isso é uma class*/
+.navbar {
+    background-color: #8b8d8d;
+}
+/*isso é uma class*/
+.navbar-brand, .navbar-nav .nav-link {
+    color: #f8f409;
+}
+/*isso é uma class*/
+.jumbotron {
+    background-image: url('engrenagens2.jpg');
+    color: #f70d0d;
+    text-align: center;
+    padding: 100px;
+}
+/*isso é uma class*/
+.section {
+    padding: 50px 0;
+}
+/*isso é uma class*/
+.footer {
+    background-color: url('engrenagens2.jpg');
+    color: #0cf73f;
+    text-align: left;
+    padding: 50px;
+}
+/*tag h1*/
+h1{
+    color:rgb(241, 13, 13);
+}
+/*tag p*/
+p{
+    color:rgb(171, 236, 19);
+    text-align: justify;
+}
+/*isso é Id*/
+#paragrafo{
+
+    text-align: center;
+
+}
+/*isso é Id*/
+#paragrafo1{
+
+    text-align: center;
+}
+/*tag img*/
+img{
+    
+    width: 300px;
+}
